@@ -1,4 +1,4 @@
-<h1 align="center">Sandro · Code.SansJr</h1>
+<h1 align="center">Sandro · code-sansjr</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;PHP+%7C+C%23+%7C+Node.js+%7C+React;Rio+de+Janeiro%2C+Brasil" alt="Full Stack Developer" />
