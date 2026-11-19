@@ -58,9 +58,3 @@ I'm a **Full Stack Developer** based in Rio de Janeiro, Brazil. I build web appl
 **Contact:** [jott4pb@gmail.com](mailto:jott4pb@gmail.com) · [Instagram](https://www.instagram.com/code.sansjr/) · [GitHub](https://github.com/Ozzy0s)
 
 </details>
-
----
-
-<p align="center">
-  <sub>Obrigado pela visita · Thanks for stopping by</sub>
-</p>
