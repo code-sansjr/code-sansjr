@@ -1,4 +1,4 @@
-<h1 align="center">Sandro · code-sansjr</h1>
+<h1 align="center">Sandro · Code.SansJr</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;PHP+%7C+C%23+%7C+Node.js+%7C+React;Rio+de+Janeiro%2C+Brasil" alt="Full Stack Developer" />
@@ -33,13 +33,13 @@ Sou **Sandro**, desenvolvedor **Full Stack** no Rio de Janeiro. Gosto de resolve
 
 ## 🚀 Projetos em destaque
 
-**[TaskFlow API](https://github.com/Ozzy0s/taskflow-api)** — API REST para gerenciamento de projetos e tarefas
+**[TaskFlow API](https://github.com/code-sansjr/taskflow-api)** — API REST para gerenciamento de projetos e tarefas
 
 PHP 8.4 · MySQL 8.4 · PDO · JWT · PHPUnit · GitHub Actions
 
 CRUD de projetos e tarefas com isolamento por usuário, filtros, paginação, dashboard e **38 testes automatizados**.
 
-**[TaskFlow Dashboard](https://github.com/Ozzy0s/taskflow-dashboard)** — interface React para consumir a TaskFlow API
+**[TaskFlow Dashboard](https://github.com/code-sansjr/taskflow-dashboard)** — interface React para consumir a TaskFlow API
 
 React 19 · Tailwind CSS 4 · Vite · TanStack Query · Vitest · GitHub Actions
 
@@ -69,11 +69,11 @@ I'm a **Full Stack Developer** based in Rio de Janeiro, Brazil. I build web appl
 
 **Featured projects:**
 
-- [TaskFlow API](https://github.com/Ozzy0s/taskflow-api) — REST API for project and task management built with plain PHP, PDO and MySQL. JWT authentication, per-user data isolation, task filters, pagination, a dashboard and 38 automated tests.
-- [TaskFlow Dashboard](https://github.com/Ozzy0s/taskflow-dashboard) — React + Tailwind CSS interface for the TaskFlow API. JWT authentication, productivity metrics, project and task CRUD, filters, pagination, responsive layout and 25 automated tests.
+- [TaskFlow API](https://github.com/code-sansjr/taskflow-api) — REST API for project and task management built with plain PHP, PDO and MySQL. JWT authentication, per-user data isolation, task filters, pagination, a dashboard and 38 automated tests.
+- [TaskFlow Dashboard](https://github.com/code-sansjr/taskflow-dashboard) — React + Tailwind CSS interface for the TaskFlow API. JWT authentication, productivity metrics, project and task CRUD, filters, pagination, responsive layout and 25 automated tests.
 
 **Currently:** building full stack projects with PHP, Node.js and React, and studying software architecture, automated testing and clean code.
 
-**Contact:** [jott4pb@gmail.com](mailto:jott4pb@gmail.com) · [Instagram](https://www.instagram.com/code.sansjr/) · [GitHub](https://github.com/Ozzy0s)
+**Contact:** [jott4pb@gmail.com](mailto:jott4pb@gmail.com) · [Instagram](https://www.instagram.com/code.sansjr/) · [GitHub](https://github.com/code-sansjr)
 
 </details>
