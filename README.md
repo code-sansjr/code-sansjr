@@ -31,6 +31,14 @@ Sou **Sandro**, desenvolvedor **Full Stack** no Rio de Janeiro. Gosto de resolve
   <b>Front-end:</b> React · Tailwind CSS &nbsp;•&nbsp; <b>Back-end:</b> Node.js &nbsp;•&nbsp; <b>Dados:</b> MySQL &nbsp;•&nbsp; <b>Ferramentas:</b> Git</sub>
 </p>
 
+## 🚀 Projetos em destaque
+
+**[TaskFlow API](https://github.com/Ozzy0s/taskflow-api)** — API REST para gerenciamento de projetos e tarefas
+
+PHP 8.4 · MySQL 8.4 · PDO · JWT · PHPUnit · GitHub Actions
+
+CRUD de projetos e tarefas com isolamento por usuário, filtros, paginação, dashboard e **38 testes automatizados**.
+
 ## 📬 Contato
 
 <p align="center">
@@ -52,6 +60,8 @@ Sou **Sandro**, desenvolvedor **Full Stack** no Rio de Janeiro. Gosto de resolve
 I'm a **Full Stack Developer** based in Rio de Janeiro, Brazil. I build web applications end to end — from database modeling and APIs to responsive interfaces.
 
 **Stack:** PHP · C# · JavaScript · Python · Node.js · React · Tailwind CSS · MySQL · Git
+
+**Featured project:** [TaskFlow API](https://github.com/Ozzy0s/taskflow-api) — REST API for project and task management built with plain PHP, PDO and MySQL. JWT authentication, per-user data isolation, task filters, pagination, a dashboard and 38 automated tests.
 
 **Currently:** building full stack projects with PHP, Node.js and React, and studying software architecture, automated testing and clean code.
 
