@@ -22,47 +22,23 @@ Sou **Sandro**, desenvolvedor **Full Stack** no Rio de Janeiro. Gosto de resolve
 
 ## 🛠️ Stack
 
-**Linguagens**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,js,python,react,tailwind,nodejs,mysql,git&amp;theme=dark&amp;perline=9" alt="PHP, C#, JavaScript, Python, React, Tailwind CSS, Node.js, MySQL e Git" />
 </p>
 
-**Front-end**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Back-end e banco de dados**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Ferramentas**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <sub><b>Linguagens:</b> PHP · C# · JavaScript · Python<br />
+  <b>Front-end:</b> React · Tailwind CSS &nbsp;•&nbsp; <b>Back-end:</b> Node.js &nbsp;•&nbsp; <b>Dados:</b> MySQL &nbsp;•&nbsp; <b>Ferramentas:</b> Git</sub>
 </p>
 
 ## 📬 Contato
 
-<p>
+<p align="center">
   <a href="mailto:jott4pb@gmail.com">
     <img src="https://img.shields.io/badge/Email-jott4pb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.instagram.com/code.sansjr/">
     <img src="https://img.shields.io/badge/Instagram-code.sansjr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Ozzy0s">
-    <img src="https://img.shields.io/badge/GitHub-Ozzy0s-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
